@@ -2,18 +2,23 @@
 
 
 /**
- * main - Check description
- * Description: It prints the putchar, followed by a new line.
- * Return: 0.
+ * main - print _putchar followed by a newline.
+ *
+ * Return:always to zero
  */
 int main(void)
 {
-	int char;
-       char i; 
 
-	for (i = a; i <= z; i++)
-		putchar(i);
-	putchar('\n');
+
+  _putchar('_');
+  _putchar('p');
+  _putchar('u');
+  _putchar('t');
+  _putchar('c');
+  _putchar('h');
+  _putchar('a');
+  _putchar('r');
+  _putchar('\n');
 
 	return (0);
 }
