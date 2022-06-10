@@ -1,7 +1,7 @@
 # include "main.h"
 
 /**
- * print_alphabet_X10 - Check description
+ * print_alphabet_x10 - Check description
  * Description: It prints the alphabet
  * 10 times in lowercase followed by a new line
  * Return: Nothing.
