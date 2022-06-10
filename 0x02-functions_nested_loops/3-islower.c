@@ -1,7 +1,7 @@
 #include "main.h"
 #include<unistd.h>
 /**
- * -islower- Check description
+ * _islower- Check description
  * @c: an input character
  *
  * Return: 1 if is lowecase or 0 if uppercase
