@@ -2,7 +2,8 @@
 
 /**
  * print_alphabet_X10 - Check description
- * Description: It prints the alphabet  10 times in lowercase followed by a new line
+ * Description: It prints the alphabet
+ * 10 times in lowercase followed by a new line
  * Return: Nothing.
  */
 
