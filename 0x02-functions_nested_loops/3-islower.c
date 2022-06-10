@@ -1,5 +1,6 @@
 #include "main.h"
 #include<unistd.h>
+
 /**
  * _islower- Check description
  * @c: an input character
@@ -10,10 +11,10 @@ int _islower(int c)
 {
 char i;
 int lower = 0;
-for (i = 'a'; i <= 'z'; i++)
+for ( i = 'a'; i <= 'z'; i++)
 {
 if ( i == c)
 lower = 1;
 }
-return(lower);
+return (lower);
 }
